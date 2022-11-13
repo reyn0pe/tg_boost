@@ -1,4 +1,4 @@
-module github.com/batiscuff/tg_booster
+module github.com/thesanzu/tg_booster
 
 go 1.16
 
