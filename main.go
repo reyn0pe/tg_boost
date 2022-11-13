@@ -12,7 +12,7 @@ import (
 	"regexp"
 	"time"
 
-	utils "github.com/batiscuff/tg_booster/boosterutils"
+	utils "github.com/thesanzu/tg_booster/boosterutils"
 
 	browser "github.com/EDDYCJY/fake-useragent"
 	"github.com/gammazero/workerpool"
